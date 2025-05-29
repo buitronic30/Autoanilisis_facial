@@ -1,12 +1,5 @@
 import React from 'react';
-
 function App() {
-  return (
-    <div>
-      <h1>¡Autoanálisis Facial en React!</h1>
-      <p>Aquí irá tu aplicación.</p>
-    </div>
-  );
+  return <h1>¡Autoanálisis Facial en Progreso!</h1>;
 }
-
 export default App;
