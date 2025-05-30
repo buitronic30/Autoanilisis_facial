@@ -21,12 +21,17 @@ const AutoanalisisFacial = () => {
       boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
       backgroundColor: '#fff'
     },
-    title: {
-      fontSize: '24px', 
-      fontWeight: 'bold', 
-      marginBottom: '16px',
-      color: '#333'
-    },
+    const styles = {
+  title: {
+    fontSize: '24px', 
+    fontWeight: 'bold', 
+    marginBottom: '16px',
+    color: '#333'
+  },
+  button: { 
+    /* ... */ 
+  },
+  },
     button: { 
       padding: '10px 20px', 
       backgroundColor: '#3B82F6', 
